@@ -14,6 +14,4 @@ Projekt zaliczeniowy z przedmiotu POiGK.
 
 ![Gameplay](gra.gif)
 
-## Autor
 
-Maja Wiosna 198043 – ACiR 4A, semestr 4

@@ -12,7 +12,7 @@ Projekt zaliczeniowy z przedmiotu POiGK.
 
 ## Przykładowy gameplay
 
-![Gameplay](gify/gra.gif)
+![Gameplay](gra.gif)
 
 ## Autor
 

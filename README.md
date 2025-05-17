@@ -2,7 +2,7 @@
 
 Projekt zaliczeniowy z przedmiotu POiGK.
 
-## Wprowadzone zmiany:
+## Wprowadzone zmiany
 
 - tło, które zmienia kolory podczas gry
 - zamiana statku kosmicznego na różdżkę
